@@ -10,6 +10,7 @@
 
 
 ![](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.22.38.png)
+![](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.23.26.png)
 
 
 <h3 align="left">Conéctate conmigo:</h3>
