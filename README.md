@@ -2,10 +2,9 @@
 <h3 align="center">iOS Developer junior</h3>
 
 - 🔭Estoy estudiando **Desarrollo de app moviles**
-
 - 👯 Busco colaborar  en Desarrollo de iOS
-
 - 💬 Preguntame **Swift, SwiftUI, iOS**
+
 - 📫 Cómo contactarme **manuelcm23@hotmail.com**
 
 
