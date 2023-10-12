@@ -9,9 +9,16 @@
 - 📫 Cómo contactarme **manuelcm23@hotmail.com**
 
 
-![](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.22.38.png){:width="50%"}
 
-![](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.23.26.png){: width="50%"}
+<div style="display: flex;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.22.38.png"" alt="Imagen 1" style="width: 100px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.23.26.png" alt="Imagen 2" style="width: 100px; height: auto;">
+  <img src="URL_DE_LA_IMAGEN_3" alt="Imagen 3" style="width: 100px; height: auto;">
+  <img src="URL_DE_LA_IMAGEN_4" alt="Imagen 4" style="width: 100px; height: auto;">
+  <img src="URL_DE_LA_IMAGEN_5" alt="Imagen 5" style="width: 100px; height: auto;">
+</div>
+
+
 
 
 <h3 align="left">Conéctate conmigo:</h3>
