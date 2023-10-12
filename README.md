@@ -5,7 +5,7 @@
 - 👯 Busco colaborar  en Desarrollo de iOS
 - 💬 Preguntame **Swift, SwiftUI, iOS**
 
-- 📫 Cómo contactarme **manuelcm23@hotmail.com**
+
 
 
 
@@ -22,8 +22,18 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https:/ /linkedin.com/in/manuel cazalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel cazalla" height="30" width="40" /></ un>
-<a href="https://fb.com/manuel cazalla colmenero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/facebook.svg" alt="manuel cazalla colmenero" height="30" width="40" /></a> </p> <h3 align=
-"
+  <a href="https://linkedin.com/in/manuel-cazalla-colmenero-965bb110a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/manuel.cazallacolmenero" target="_blank">
+    <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="mailto:manuelcm23@hotmail.com">Correo: manuelcm23@hotmail.com</a>
+</p>
+
+
+
+
+
 
 
