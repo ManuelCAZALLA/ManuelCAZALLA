@@ -30,7 +30,6 @@
 
 ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=ManuelCAZALLA&show_icons=true&count_private=true)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelCAZALLA)
 
 
 
