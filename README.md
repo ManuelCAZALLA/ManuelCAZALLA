@@ -19,7 +19,7 @@
 </div>
  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="Imagen 7" style="width: 100px; height: auto;">
 </div>
-</div>
+
 
 
 
