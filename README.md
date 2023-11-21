@@ -20,6 +20,14 @@
 </div>
 
 
+### Tech Stack
+- [Python](https://www.python.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React](https://reactjs.org/)
+- [Flask](https://flask.palletsprojects.com/)
+
+
+
 
 
 
