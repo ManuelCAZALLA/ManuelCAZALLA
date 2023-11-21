@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, Soy Manuel Cazalla</h1>
 <h3 align="center">iOS Developer junior</h3>
 
-- 🔭Estoy estudiando **Desarrollo de app moviles**
-- 👯 Busco colaborar  en Desarrollo de iOS
-- 💬 Preguntame **Swift, SwiftUI, iOS**
+### Sobre mí
+- 🔭 Estoy estudiando **Desarrollo de aplicaciones móviles**.
+- 👯 Busco colaborar en proyectos de **Desarrollo de iOS**.
+- 💬 Pregúntame sobre **Swift, SwiftUI, iOS**.
 
 
 
@@ -19,15 +20,13 @@
 <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="Imagen 7" style="width: 100px; height: auto;">
 <div style="display: flex;">
  
+### Tecnologías y Herramientas
+- 📱 Desarrollo de iOS con **Swift** y **SwiftUI**.
+- 💻 Experiencia en **Desarrollo de Aplicaciones Móviles**.
+- 🧰 Herramientas: Xcode, Interface Builder, Git.
 
 
 
-### Tecnologías
-- [Swift](https://developer.apple.com/swift/)
-- [Python](https://www.python.org/)
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- [Flask](https://flask.palletsprojects.com/)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=ManuelCAZALLA&show_icons=true&count_private=true)
 
@@ -35,29 +34,11 @@
 
 
 
-
-
-
-
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/manuel-cazalla-colmenero-965bb110a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/manuel.cazallacolmenero" target="_blank">
-    <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="30" width="30" />
-  </a>
-  <a href="mailto:manuelcm23@hotmail.com">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Correo" height="30" width="30" />
-    manuelcm23@hotmail.com
-  </a>
-  <br>
-  Teléfono: 622077578
-</p>
-
-
-
+### Conéctate conmigo:
+- LinkedIn: [Manuel Cazalla](https://linkedin.com/in/manuel-cazalla-colmenero-965bb110a)
+- Facebook: [Manuel Cazalla](https://www.facebook.com/manuel.cazallacolmenero)
+- Correo electrónico: [manuelcm23@hotmail.com](mailto:manuelcm23@hotmail.com)
+- Teléfono: 622077578
 
 
 
