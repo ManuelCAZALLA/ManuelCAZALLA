@@ -21,7 +21,7 @@
 <div style="display: flex;">
  
 ### Tecnologías y Herramientas
-- 📱 Desarrollo de iOS con **Swift** y **SwiftUI**.
+- 📱 Desarrollo de iOS con **Swift** **UIKit** y **SwiftUI**.
 - 💻 Experiencia en **Desarrollo de Aplicaciones Móviles**.
 - 🧰 Herramientas: Xcode, Interface Builder, Git.
 
