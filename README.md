@@ -49,8 +49,14 @@
   <a href="https://www.facebook.com/manuel.cazallacolmenero" target="_blank">
     <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="mailto:manuelcm23@hotmail.com">Correo: manuelcm23@hotmail.com</a>
+  <a href="mailto:manuelcm23@hotmail.com">
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Correo" height="30" width="40" />
+    manuelcm23@hotmail.com
+  </a>
+  <br>
+  Teléfono: 622077578
 </p>
+
 
 
 
