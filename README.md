@@ -47,15 +47,16 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/manuel.cazallacolmenero" target="_blank">
-    <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://simpleicons.org/icons/facebook.svg" alt="Facebook" height="30" width="30" />
   </a>
   <a href="mailto:manuelcm23@hotmail.com">
-    <img src="https://simpleicons.org/icons/gmail.svg" alt="Correo" height="30" width="40" />
+    <img src="https://simpleicons.org/icons/gmail.svg" alt="Correo" height="30" width="30" />
     manuelcm23@hotmail.com
   </a>
   <br>
   Teléfono: 622077578
 </p>
+
 
 
 
