@@ -20,6 +20,10 @@
 </div>
 
 
+<div style="display: flex;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/imagen6.png" alt="Imagen 6" style="width: 100px; height: auto;">
+</div>
+
 ### Tech Stack
 - [Python](https://www.python.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
