@@ -50,7 +50,10 @@ Integración y gestión de bibliotecas externas para mejorar la eficiencia del d
 ## Diseño de Interfaces de Usuario:
 
 Creación de interfaces atractivas y funcionales utilizando UIKit y SwiftUI.
+
 Experiencia en diseño adaptable y amigable con el usuario.
+
+
 
 
 
