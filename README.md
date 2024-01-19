@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Manuel Cazalla</h1>
-<h3 align="center">iOS Developer junior</h3>
+<h3 align="center">iOS Developer</h3>
 
 ### Sobre mí
 - 🔭 Estoy estudiando **Desarrollo de aplicaciones móviles**.
