@@ -4,7 +4,7 @@
 ### Sobre mí
 - 🔭 Estoy estudiando **Desarrollo de aplicaciones móviles**.
 - 👯 Busco colaborar en proyectos de **Desarrollo de iOS**.
-- 💬 Pregúntame sobre **Swift, SwiftUI, iOS**.
+- 💬 Pregúntame sobre **Swift, SwiftUI, iOS,Combine,UIKit,MVVM;CoreData**.
 
 
 
@@ -30,19 +30,24 @@ Conocimiento profundo de los componentes esenciales de iOS, como ViewControllers
 ## Herramientas y Entornos:
 
 Dominio de Xcode como entorno de desarrollo integrado (IDE).
-Experiencia sólida en el uso de Interface Builder para el diseño de interfaces de usuario.
-Control de versiones con Git para el seguimiento y gestión del código fuente.
-Frameworks y Librerías:
+Experiencia  en el uso de Interface Builder para el diseño de interfaces de usuario.
+Control de versiones con Git, GitHub y GitFlow.
 
-Uso avanzado de Core Data para la gestión eficiente de datos en aplicaciones iOS.
+# Frameworks y Librerías:
+
+Uso  de Core Data y SwiftData para la gestión de datos en aplicaciones iOS.
+Uso de Keychain para guardar los datos sensibles del usuario.
 Integración de MapKit para la implementación de mapas y ubicación.
+Programación reactiva con Combine y RXSwift.
+Async Await para que la navegación sea mas fluida y el código mas legible y fácil de mantener.
 Implementación de animaciones complejas con Core Animation.
 
 ## Pruebas y Calidad del Código:
 
 Desarrollo de pruebas unitarias con XCTest para garantizar la robustez del código.
 Experiencia en la implementación de pruebas de interfaz de usuario para garantizar una experiencia fluida para el usuario final.
-Gestión de Dependencias:
+
+# Gestión de Dependencias:
 
 Uso efectivo de gestores de dependencias como CocoaPods y Swift Package Manager.
 Integración y gestión de bibliotecas externas para mejorar la eficiencia del desarrollo.
@@ -51,7 +56,7 @@ Integración y gestión de bibliotecas externas para mejorar la eficiencia del d
 
 Creación de interfaces atractivas y funcionales utilizando UIKit y SwiftUI.
 
-Experiencia en diseño adaptable y amigable con el usuario.
+
 
 
 
