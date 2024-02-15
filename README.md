@@ -18,7 +18,7 @@
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.28.54.png" alt="Imagen 5" style="width: 100px; height: auto;">
    <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/imagen6.png" alt="Imagen 6" style="width: 100px; height: auto;">
 <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="Imagen 7" style="width: 100px; height: auto;">
-<img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/VisionPro.png" alt="Vision Pro" style="width: 400px; height: auto;">
+<img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/VisionPro.png" alt="Vision Pro" style="width: 300px; height: auto;">
 <div style="display: flex;">
 
  
