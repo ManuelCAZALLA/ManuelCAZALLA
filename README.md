@@ -91,41 +91,9 @@
 <div style="display: flex;">
 
  
-# Habilidades Técnicas:
 
 
-Desarrollo de aplicaciones nativas para iOS utilizando Swift, UIKit y SwiftUI.
-Experiencia en la implementación de patrones de diseño como MVVM y MVC.
-Conocimiento profundo de los componentes esenciales de iOS, como ViewControllers, TableView, CollectionView, y Navigation Controllers.
 
-## Herramientas y Entornos:
-
-Dominio de Xcode como entorno de desarrollo integrado (IDE).
-Experiencia  en el uso de Interface Builder para el diseño de interfaces de usuario.
-Control de versiones con Git, GitHub y GitFlow.
-
-# Frameworks y Librerías:
-
-Uso  de Core Data y SwiftData para la gestión de datos en aplicaciones iOS.
-Uso de Keychain para guardar los datos sensibles del usuario.
-Integración de MapKit para la implementación de mapas y ubicación.
-Programación reactiva con Combine y RXSwift.
-Async Await para que la navegación sea mas fluida y el código mas legible y fácil de mantener.
-Implementación de animaciones complejas con Core Animation.
-
-## Pruebas y Calidad del Código:
-
-Desarrollo de pruebas unitarias con XCTest para garantizar la robustez del código.
-Experiencia en la implementación de pruebas de interfaz de usuario para garantizar una experiencia fluida para el usuario final.
-
-# Gestión de Dependencias:
-
-Uso efectivo de gestores de dependencias como CocoaPods y Swift Package Manager.
-Integración y gestión de bibliotecas externas para mejorar la eficiencia del desarrollo.
-
-## Diseño de Interfaces de Usuario:
-
-Creación de interfaces atractivas y funcionales utilizando UIKit y SwiftUI.
 
 
 
