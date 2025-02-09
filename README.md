@@ -91,10 +91,6 @@ Creación de interfaces atractivas y funcionales utilizando UIKit y SwiftUI.
 
 
 
-![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=ManuelCAZALLA&show_icons=true&count_private=true)
-
-
-
 
 
 
