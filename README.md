@@ -65,28 +65,31 @@ Creación de interfaces atractivas y funcionales utilizando UIKit y SwiftUI.
 - 👯 Busco colaborar en proyectos de **Desarrollo de iOS**.
 - 💬 Pregúntame sobre **Swift, SwiftUI, iOS, Combine, UIKit, MVVM, CoreData**.
 
+# Certificaciones
+
+Aquí están algunas de las certificaciones que he obtenido:
+
 ## 📚 **Certificaciones en Desarrollo de iOS y Programación Móvil**
 
-- [**Bootcamp Desarrollo de Apps Móviles Fullstack**]([(https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202024-06-27%20a%20las%2018.19.16.png)] - KeepCoding®  
-- [**Aprende a Programar desde Cero - Full Stack Junior Bootcamp**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Aprende%20a%20Programar%20desde%20Cero%20-%20Full%20Stack%20Junior%20Bootcamp.pdf) - KeepCoding®  
-- [**Curso de Desarrollo Apps iOS con Swift**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Curso%20de%20Desarrollo%20Apps%20iOS%20con%20Swift.pdf) - KeepCoding®  
-- [**Curso de Git, Github y SourceTree**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Curso%20de%20Git%2C%20Github%20y%20SourceTree.pdf) - KeepCoding®  
-- [**Desarrollo de Apps para iOS con Storyboards**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Desarrollo%20de%20Apps%20para%20iOS%20con%20Storyboards.pdf) - KeepCoding®  
-- [**Curso de Despliegue iOS y Android**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Curso%20de%20Despliegue%20iOS%20y%20Android.pdf) - KeepCoding®  
-- [**Curso de Firebase**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Curso%20de%20Firebase.pdf) - KeepCoding®  
-- [**Curso de Fundamentos Android**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Curso%20de%20Fundamentos%20Android.pdf) - KeepCoding®  
-- [**Curso de Git**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Curso%20de%20Git.pdf) - KeepCoding®  
-- [**Lenguaje Kotlin**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Lenguaje%20Kotlin.pdf) - KeepCoding®  
-- [**Lenguaje Swift**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Lenguaje%20Swift.pdf) - KeepCoding®  
-- [**Mobile 101**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Mobile%20101.pdf) - KeepCoding®  
-- [**Modelo de Datos e Introducción a SQL**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Modelo%20de%20Datos%20e%20Introducci%C3%B3n%20a%20SQL.pdf) - KeepCoding®  
-- [**Patrones de Diseño**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Patrones%20de%20Dise%C3%B1o.pdf) - KeepCoding®  
-- [**Programación Orientada a Objetos**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Programaci%C3%B3n%20Orientada%20a%20Objetos.pdf) - KeepCoding®  
-- [**Server Side Swift**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Server%20Side%20Swift.pdf) - KeepCoding®  
-- [**UX Móvil & Diseño UI**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/UX%20M%C3%B3vil%20%26%20Dise%C3%B1o%20UI.pdf) - KeepCoding®  
-- [**iOS Avanzado**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/iOS%20Avanzado.pdf) - KeepCoding®  
-- [**iOS Superpoderes**](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/iOS%20Superpoderes.pdf) - KeepCoding®  
-
+- [Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202024-06-27%20a%20las%2018.19.16.png) - KeepCoding®
+- [Aprende a Programar desde Cero - Full Stack Junior Bootcamp](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Diploma_Cero.pdf) - KeepCoding®
+- [Curso de Desarrollo Apps iOS con Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Cero.pdf) - KeepCoding®
+- [Curso de Git, Github y SourceTree](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Github.pdf) - KeepCoding®
+- [Desarrollo de Apps para iOS con Storyboards](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/iOS_Avanzado.pdf) - KeepCoding®
+- [Curso de Despliegue iOS y Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Despliegue.pdf) - KeepCoding®
+- [Curso de Firebase](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Firebase.pdf) - KeepCoding®
+- [Curso de Fundamentos Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Kotlin.pdf) - KeepCoding®
+- [Curso de Git](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Git.pdf) - KeepCoding®
+- [Lenguaje Kotlin](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Kotlin.pdf) - KeepCoding®
+- [Lenguaje Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Swift.pdf) - KeepCoding®
+- [Mobile 101](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Cero.pdf) - KeepCoding®
+- [Modelo de Datos e Introducción a SQL](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/SQL.pdf) - KeepCoding®
+- [Patrones de Diseño](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Patrones.pdf) - KeepCoding®
+- [Programación Orientada a Objetos](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/POO.pdf) - KeepCoding®
+- [Server Side Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Server_Side.pdf) - KeepCoding®
+- [UX Móvil & Diseño UI](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/UX%3AUI.pdf) - KeepCoding®
+- [iOS Avanzado](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/iOS_Avanzado.pdf) - KeepCoding®
+- [iOS Superpoderes](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Superpoderes.pdf) - KeepCoding®
 
 
 
