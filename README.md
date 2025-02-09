@@ -19,7 +19,7 @@
    <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/imagen6.png" alt="Imagen 6" style="width: 100px; height: auto;">
 <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="Imagen 7" style="width: 100px; height: auto;">
 <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/VisionPro.png" alt="Vision Pro" style="width: 300px; height: auto;">
-  <img src=<img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="MB!" style="width: 100px; height: auto;">
+<img src=<img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="MB1!" style="width: 100px; height: auto;">
 <div style="display: flex;">
 
  
