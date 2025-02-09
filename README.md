@@ -84,6 +84,13 @@ Creación de interfaces atractivas y funcionales utilizando UIKit y SwiftUI.
 
 
 
+## 📄 Descargar Currículum  
+
+[![Descargar CV](https://img.shields.io/badge/📄%20Descargar%20Currículum-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Curriculum%20Manuel%20Cazalla(Desarrollador%20iOS).pdf)
+
+
+
+
 ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=ManuelCAZALLA&show_icons=true&count_private=true)
 
 
