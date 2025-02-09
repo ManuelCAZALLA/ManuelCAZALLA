@@ -10,16 +10,22 @@
 
 
 
-<div style="display: flex;">
-  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.22.38.png"" alt="Imagen 1" style="width: 100px; height: auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.22.38.png" alt="Imagen 1" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.23.26.png" alt="Imagen 2" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.23.45.png" alt="Imagen 3" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.28.30.png" alt="Imagen 4" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202023-10-12%20a%20las%208.28.54.png" alt="Imagen 5" style="width: 100px; height: auto;">
-   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/imagen6.png" alt="Imagen 6" style="width: 100px; height: auto;">
-<img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="Imagen 7" style="width: 100px; height: auto;">
-<img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/VisionPro.png" alt="Vision Pro" style="width: 300px; height: auto;">
-<div style="display: flex;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/imagen6.png" alt="Imagen 6" style="width: 100px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Imagen7.png" alt="Imagen 7" style="width: 100px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/VisionPro.png" alt="Vision Pro" style="width: 300px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/A1.png" alt="A1" style="width: 100px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/A2.png" alt="A2" style="width: 100px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/A3.png" alt="A3" style="width: 100px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/MB1.png" alt="MB1" style="width: 100px; height: auto;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/MB2.png" alt="MB2" style="width: 100px; height: auto;">
+</div>
+
 
  
 # Habilidades Técnicas:
