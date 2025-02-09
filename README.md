@@ -67,74 +67,61 @@ Aquí están algunas de las certificaciones que he obtenido:
 ## 📚 **Certificaciones en Desarrollo de iOS y Programación Móvil**
 
 - **[Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Bootcamp%20Desarrollo%20de%20Apps%20M%C3%B3viles%20Fullstack.pdf)** - KeepCoding® (Expedición: mayo 2024)
-  ![Bootcamp Desarrollo de Apps Móviles Fullstack](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2015.59.48.png)
+  ![Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2015.59.48.png)
 
 - **[Aprende a Programar desde Cero - Full Stack Junior Bootcamp](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Aprende%20a%20Programar%20desde%20Cero%20-%20Full%20Stack%20Junior%20Bootcamp.pdf)** - KeepCoding® (Expedición: feb. 2022)
-  ![Aprende a Programar desde Cero](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.01.27.png)
+  ![Aprende a Programar desde Cero](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.01.27.png)
 
 - **[Curso de Desarrollo Apps iOS con Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Desarrollo%20Apps%20iOS%20con%20Swift.pdf)** - KeepCoding®
-  ![Curso de Desarrollo Apps iOS con Swift](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.10.38.png)
+  ![Curso de Desarrollo Apps iOS con Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.10.38.png)
 
 - **[Curso de Git, Github y SourceTree](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Git%2C%20Github%20y%20SourceTree.pdf)** - KeepCoding®
-  ![Curso de Git, Github y SourceTree](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.13.03.png)
+  ![Curso de Git, Github y SourceTree](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.13.03.png)
 
 - **[Desarrollo de Apps para iOS con Storyboards](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Desarrollo%20de%20Apps%20para%20iOS%20con%20Storyboards.pdf)** - KeepCoding®
-  ![Desarrollo de Apps para iOS con Storyboards](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.14.18.png)
+  ![Desarrollo de Apps para iOS con Storyboards](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.14.18.png)
 
 - **[Curso de Despliegue iOS y Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Despliegue%20iOS%20y%20Android.pdf)** - KeepCoding®
-  ![Curso de Despliegue iOS y Android](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.15.02.png)
+  ![Curso de Despliegue iOS y Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.15.02.png)
 
 - **[Curso de Firebase](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Firebase.pdf)** - KeepCoding®
-  ![Curso de Firebase](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.16.37.png)
+  ![Curso de Firebase](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.16.37.png)
 
 - **[Curso de Fundamentos Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Fundamentos%20Android.pdf)** - KeepCoding®
-  ![Curso de Fundamentos Android](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.17.12.png)
+  ![Curso de Fundamentos Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.17.12.png)
 
 - **[Curso de Git](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Git.pdf)** - KeepCoding®
-  ![Curso de Git](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.17.50.png)
-
-## 🧑‍💻 **Certificaciones en Programación y Diseño**
-
-- **[Curso de Introducción a la Programación desde Cero](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Introducción%20a%20la%20Programación%20desde%20Cero.pdf)** - KeepCoding®
-  ![Curso de Introducción a la Programación desde Cero](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.19.09.png)
-
-- **[Curso de Programación Moderna con Python](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Programación%20Moderna%20con%20Python.pdf)** - KeepCoding®
-  ![Curso de Programación Moderna con Python](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.19.50.png)
-
-- **[Curso de Desarrollo Web con HTML5 y CSS](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Desarrollo%20Web%20con%20HTML5%20y%20CSS.pdf)** - KeepCoding®
-  ![Curso de Desarrollo Web con HTML5 y CSS](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.20.17.png)
+  ![Curso de Git](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.17.50.png)
 
 - **[Lenguaje Kotlin](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Lenguaje%20Kotlin.pdf)** - KeepCoding®
-  ![Lenguaje Kotlin](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.21.12.png)
+  ![Lenguaje Kotlin](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.18.17.png)
 
 - **[Lenguaje Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Lenguaje%20Swift.pdf)** - KeepCoding®
-  ![Lenguaje Swift](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.21.55.png)
+  ![Lenguaje Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.18.56.png)
 
 - **[Mobile 101](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Mobile%20101.pdf)** - KeepCoding®
-  ![Mobile 101](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.22.47.png)
+  ![Mobile 101](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.19.30.png)
 
-- **[Modelo de Datos e Introducción a SQL](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Modelo%20de%20Datos%20e%20Introducción%20a%20SQL.pdf)** - KeepCoding®
-  ![Modelo de Datos e Introducción a SQL](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.23.14.png)
+- **[Modelo de Datos e Introducción a SQL](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Modelo%20de%20Datos%20e%20Introducci%C3%B3n%20a%20SQL.pdf)** - KeepCoding®
+  ![Modelo de Datos e Introducción a SQL](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.20.01.png)
 
-- **[Patrones de Diseño](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Patrones%20de%20Diseño.pdf)** - KeepCoding®
-  ![Patrones de Diseño](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.24.04.png)
+- **[Patrones de Diseño](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Patrones%20de%20Dise%C3%B1o.pdf)** - KeepCoding®
+  ![Patrones de Diseño](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.20.32.png)
 
-- **[Programación Orientada a Objetos](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Programación%20Orientada%20a%20Objetos.pdf)** - KeepCoding®
-  ![Programación Orientada a Objetos](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.24.32.png)
+- **[Programación Orientada a Objetos](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Programaci%C3%B3n%20Orientada%20a%20Objetos.pdf)** - KeepCoding®
+  ![Programación Orientada a Objetos](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.21.14.png)
 
 - **[Server Side Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Server%20Side%20Swift.pdf)** - KeepCoding®
-  ![Server Side Swift](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.25.14.png)
+  ![Server Side Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.21.56.png)
 
-- **[UX Móvil & Diseño UI](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/UX%20Móvil%20%26%20Diseño%20UI.pdf)** - KeepCoding®
-  ![UX Móvil & Diseño UI](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.25.57.png)
+- **[UX Móvil & Diseño UI](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/UX%20M%C3%B3vil%20%26%20Dise%C3%B1o%20UI.pdf)** - KeepCoding®
+  ![UX Móvil & Diseño UI](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.22.30.png)
 
 - **[iOS Avanzado](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/iOS%20Avanzado.pdf)** - KeepCoding®
-  ![iOS Avanzado](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.26.29.png)
+  ![iOS Avanzado](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.23.04.png)
 
 - **[iOS Superpoderes](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/iOS%20Superpoderes.pdf)** - KeepCoding®
-  ![iOS Superpoderes](https://raw.githubusercontent.com/ManuelCAZALLA/ManuelCAZALLA/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.27.05.png)
-
-
+  ![iOS Superpoderes](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.23.52.png)
 
 
 ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=ManuelCAZALLA&show_icons=true&count_private=true)
