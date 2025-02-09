@@ -2,7 +2,7 @@
 <h3 align="center">iOS Developer</h3>
 
 ### Sobre mí
-- 🔭 Estoy estudiando **Desarrollo de aplicaciones móviles**.
+- 🔭 Estoy buscando una oportunidad como **Desarrollador de aplicaciones móviles**.
 - 👯 Busco colaborar en proyectos de **Desarrollo de iOS**.
 - 💬 Pregúntame sobre **Swift, SwiftUI, iOS,Combine,UIKit,MVVM;CoreData**.
 
@@ -27,13 +27,15 @@
 
 Desarrollo de aplicaciones nativas para iOS utilizando Swift, UIKit y SwiftUI.
 Experiencia en la implementación de patrones de diseño como MVVM y MVC.
-Conocimiento profundo de los componentes esenciales de iOS, como ViewControllers, TableView, CollectionView, y Navigation Controllers.
+Persistencia de datos con Coredata, Swiftdata, UserDefault y Keychain.
+Programación reactiva con Combine y RXSwift
 
 ## Herramientas y Entornos:
 
 Dominio de Xcode como entorno de desarrollo integrado (IDE).
-Experiencia  en el uso de Interface Builder para el diseño de interfaces de usuario.
 Control de versiones con Git, GitHub y GitFlow.
+Conocimiento de Github Action y Fastlane para automatización de tareas.
+Organización de tareas y trello y Jira 
 
 # Frameworks y Librerías:
 
