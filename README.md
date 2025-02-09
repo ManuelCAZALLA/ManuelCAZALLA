@@ -110,9 +110,8 @@ Aquí están algunas de las certificaciones que he obtenido:
 - **[Lenguaje Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Lenguaje%20Swift.pdf)** - KeepCoding®
   ![Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.21.55.png)
 
-- **[Mobile 101](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Mobile%20101.pdf)** - KeepCoding®
-  ![Mobile 101](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.22.47.png)
-
+- **[Mobile 101]([https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Mobile%20101.pdf](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/101.pdf))** - KeepCoding®
+ 
 - **[Modelo de Datos e Introducción a SQL](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Modelo%20de%20Datos%20e%20Introducción%20a%20SQL.pdf)** - KeepCoding®
   ![SQL](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.23.14.png)
 
