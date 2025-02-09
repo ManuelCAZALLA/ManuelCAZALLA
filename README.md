@@ -70,7 +70,7 @@ Aquí están algunas de las certificaciones que he obtenido:
   ![Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2015.59.48.png)
 
 - **[Aprende a Programar desde Cero - Full Stack Junior Bootcamp](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Aprende%20a%20Programar%20desde%20Cero%20-%20Full%20Stack%20Junior%20Bootcamp.pdf)** - KeepCoding® (Expedición: feb. 2022)
-  ![Aprende a Programar desde Cero](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.01.27.png)
+  ![Aprende a Programar desde Cero](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Cero.pdf)
 
 - **[Curso de Desarrollo Apps iOS con Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Desarrollo%20Apps%20iOS%20con%20Swift.pdf)** - KeepCoding®
   ![Curso de Desarrollo Apps iOS con Swift](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.10.38.png)
