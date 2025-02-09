@@ -66,9 +66,8 @@ Aquí están algunas de las certificaciones que he obtenido:
 
 ## 📚 **Certificaciones en Desarrollo de iOS y Programación Móvil**
 
-- **[Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Bootcamp%20Desarrollo%20de%20Apps%20M%C3%B3viles%20Fullstack.pdf)** - KeepCoding® (Expedición: mayo 2024)
-  ![Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2015.59.48.png)
-
+- **[Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Bootcamp%20Desarrollo%20de%20Apps%20M%C3%B3viles%20Fullstack.pdf)** - KeepCoding® 
+ 
 - **[Aprende a Programar desde Cero - Full Stack Junior Bootcamp](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Aprende%20a%20Programar%20desde%20Cero%20-%20Full%20Stack%20Junior%20Bootcamp.pdf)** - KeepCoding® (Expedición: feb. 2022)
   ![Aprende a Programar desde Cero](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Cero.pdf)
 
@@ -81,9 +80,8 @@ Aquí están algunas de las certificaciones que he obtenido:
 - **[Desarrollo de Apps para iOS con Storyboards](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Desarrollo%20de%20Apps%20para%20iOS%20con%20Storyboards.pdf)** - KeepCoding®
   ![Desarrollo de Apps para iOS con Storyboards](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.14.18.png)
 
-- **[Curso de Despliegue iOS y Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Despliegue%20iOS%20y%20Android.pdf)** - KeepCoding®
-  ![Curso de Despliegue iOS y Android](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.15.02.png)
-
+- **[Curso de Despliegue iOS y Android]([https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Despliegue%20iOS%20y%20Android.pdf])** - KeepCoding®
+ 
 - **[Curso de Firebase](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Curso%20de%20Firebase.pdf)** - KeepCoding®
   ![Curso de Firebase](https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202024-02-09%20a%20las%2016.16.37.png)
 
