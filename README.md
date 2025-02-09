@@ -60,15 +60,6 @@ Integración y gestión de bibliotecas externas para mejorar la eficiencia del d
 
 Creación de interfaces atractivas y funcionales utilizando UIKit y SwiftUI.
 
-### Sobre mí
-- 🔯 Estoy buscando una oportunidad como **Desarrollador de aplicaciones móviles**.
-- 👯 Busco colaborar en proyectos de **Desarrollo de iOS**.
-- 💬 Pregúntame sobre **Swift, SwiftUI, iOS, Combine, UIKit, MVVM, CoreData**.
-
-# Certificaciones
-
-Aquí están algunas de las certificaciones que he obtenido:
-
 ## 📚 **Certificaciones en Desarrollo de iOS y Programación Móvil**
 
 - [Bootcamp Desarrollo de Apps Móviles Fullstack](https://github.com/ManuelCAZALLA/ManuelCAZALLA/blob/main/Captura%20de%20pantalla%202024-06-27%20a%20las%2018.19.16.png) - KeepCoding®
