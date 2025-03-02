@@ -21,10 +21,7 @@
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/imagen6.png" alt="Imagen 6" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Imagen7.png" alt="Imagen 7" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/VisionPro.png" alt="Vision Pro" style="width: 300px; height: auto;">
-  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/A1.png" alt="A1" style="width: 100px; height: auto;">
-  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/A2.png" alt="A2" style="width: 100px; height: auto;">
-  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/A3.png" alt="A3" style="width: 100px; height: auto;">
-  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/MB1.png" alt="MB1" style="width: 100px; height: auto;">
+ <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/MB1.png" alt="MB1" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/MB2.png" alt="MB2" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202025-03-02%20a%20las%2019.08.14.png" alt="Imagen Nueva 1" style="width: 100px; height: auto;">
   <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Captura%20de%20pantalla%202025-03-02%20a%20las%2019.08.29.png" alt="Imagen Nueva 2" style="width: 100px; height: auto;">
