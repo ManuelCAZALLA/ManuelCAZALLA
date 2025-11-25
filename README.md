@@ -10,7 +10,7 @@
     <a href="mailto:manuelcm23@hotmail.com">
       <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="ruta/al/archivo/Manuel_Cazalla_CV_Tech.pdf">
+    <a href="Manuel_Cazalla_CV_Tech.pdf">
       <img src="https://img.shields.io/badge/CV-Descargar_PDF_Actualizado-005bb5?style=for-the-badge&logo=adobeacrobatreader" alt="CV"/>
     </a>
   </p>
@@ -39,12 +39,11 @@ Desarrollador iOS con sólida formación técnica y experiencia real publicando 
 
 **Stack:** SwiftUI • MapKit • CoreData • Notificaciones Locales • MVVM
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 20px;">
-  <img src="assets/IMG_6313.jpg" height="350" alt="Guardar Aparcamiento" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <img src="assets/IMG_6312.jpg" height="350" alt="Mapa y Navegación" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <img src="assets/IMG_6314.jpg" height="350" alt="Configuración Parquímetro" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <img src="assets/IMG_6316.jpg" height="350" alt="Notificaciones Inteligentes" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <img src="assets/IMG_6315.jpg" height="350" alt="Notas y Fotos" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
+  <img src="Imagen_6313.jpg" height="320" alt="Guardar Aparcamiento" style="border-radius: 10px;">
+  <img src="Imagen_6312.jpg" height="320" alt="Mapa y Navegación" style="border-radius: 10px;">
+  <img src="Imagen_6314.jpg" height="320" alt="Configuración Parquímetro" style="border-radius: 10px;">
+  <img src="Imagen_6315.jpg" height="320" alt="Notas y Fotos" style="border-radius: 10px;">
 </div>
 
 ---
