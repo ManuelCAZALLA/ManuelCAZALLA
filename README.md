@@ -10,7 +10,7 @@
     <a href="mailto:manuelcm23@hotmail.com">
       <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="Manuel_Cazalla_CV_Tech.pdf">
+    <a href="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Manuel_Cazalla_CV_Tech.pdf">
       <img src="https://img.shields.io/badge/CV-Descargar_PDF_Actualizado-005bb5?style=for-the-badge&logo=adobeacrobatreader" alt="CV"/>
     </a>
   </p>
@@ -40,10 +40,10 @@ Desarrollador iOS con sólida formación técnica y experiencia real publicando 
 **Stack:** SwiftUI • MapKit • CoreData • Notificaciones Locales • MVVM
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
-  <img src="Imagen_6313.jpg" height="320" alt="Guardar Aparcamiento" style="border-radius: 10px;">
-  <img src="Imagen_6312.jpg" height="320" alt="Mapa y Navegación" style="border-radius: 10px;">
-  <img src="Imagen_6314.jpg" height="320" alt="Configuración Parquímetro" style="border-radius: 10px;">
-  <img src="Imagen_6315.jpg" height="320" alt="Notas y Fotos" style="border-radius: 10px;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Imagen_6313.jpg" height="320" alt="Guardar Aparcamiento" style="border-radius: 10px;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Imagen_6312.jpg" height="320" alt="Mapa y Navegación" style="border-radius: 10px;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Imagen_6314.jpg" height="320" alt="Configuración Parquímetro" style="border-radius: 10px;">
+  <img src="https://github.com/ManuelCAZALLA/ManuelCAZALLA/raw/main/Imagen_6315.jpg" height="320" alt="Notas y Fotos" style="border-radius: 10px;">
 </div>
 
 ---
